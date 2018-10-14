@@ -1,4 +1,4 @@
-// Parte 1(lista 2):Fazer um programa em C que lê um conjunto de 10 
+// EXERCÍCIO 12:Fazer um programa em C que lê um conjunto de 10 
 //valores inteiros e verifica se algum dos valores
 //é igual à média dos mesmos.
 

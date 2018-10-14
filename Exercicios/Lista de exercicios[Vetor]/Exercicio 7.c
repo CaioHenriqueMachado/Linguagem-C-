@@ -1,4 +1,4 @@
-//PARTE 7:Gerar um vetor randômico de 100 posições, com valores
+//EXERCÍCIO 7:Gerar um vetor randômico de 100 posições, com valores
 //de 0 a 1000. Verificar e mostrar quantos são os pares.
 //Calcular e mostrar a soma dos ímpares.
 

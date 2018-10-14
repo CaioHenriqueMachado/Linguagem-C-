@@ -1,4 +1,4 @@
-// Parte 9(lista 2):Ler um número inteiro positivo e
+// EXERCÍCIO 20:Ler um número inteiro positivo e
 // verificar se ele é primo.
 
 #include<stdio.h>

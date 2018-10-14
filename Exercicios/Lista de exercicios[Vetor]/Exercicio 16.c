@@ -1,4 +1,4 @@
-// Parte 5(lista 2):Fazer um programa em C que gera e mostra um vetor de
+// EXERCÍCIO 16:Fazer um programa em C que gera e mostra um vetor de
 //20 posições.Em seguida, troca o primeiro elemento com o último, o 
 //segundo com o penúltimo, o terceiro com o antepenúltimo, e assim 
 //sucessivamente. Mostrar o novo vetor depois das trocas. 

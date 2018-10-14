@@ -1,4 +1,4 @@
-// Parte 10(lista 2):Preencher um vetor de 20 posições 
+// EXERCÍCIO 21:Preencher um vetor de 20 posições 
 //com os 20 primeiros números primos.
 
 #include<stdlib.h>

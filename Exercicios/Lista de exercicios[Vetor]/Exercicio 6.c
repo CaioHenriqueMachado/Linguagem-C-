@@ -1,4 +1,4 @@
-//PARTE 6:Gerar um vetor randômico de 100 posições, com valores de 0 a 1000. 
+//EXERCÍCIO 6:Gerar um vetor randômico de 100 posições, com valores de 0 a 1000. 
 //Calcular e mostrar a média dos elementos. Refazer o procedimento para o vetor
 // com 1000 posições e 10000 posições. O que se pode dizer sobre as médias
 // calculadas.

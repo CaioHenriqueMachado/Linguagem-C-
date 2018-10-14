@@ -1,4 +1,4 @@
-// Parte 7(lista 2):Gerar e mostrar um vetor de 10 posições com valores			t
+// EXERCÍCIO 18:Gerar e mostrar um vetor de 10 posições com valores	
 //de 0 a 99, calcular a média e depois substituir os elementos abaixo 
 //da média por 0 e os acima por 1. Mostrar o novo vetor.
 

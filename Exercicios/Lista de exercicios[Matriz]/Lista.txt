@@ -1,0 +1,20 @@
+LISTA DE EXERCÍCIOS:
+
+MATRIZES
+
+PALAVRA CHAVE=[]
+
+
+EXERCÍCIO 1: [MATRIZ], [INSERINDO VALORES]
+Considere uma matriz da matematica 3x3,na qual a 1º dimensão é linha e a 2º
+é a coluna.O trexo do codigo a seguir faz a leitura da matriz.
+
+EXERCÍCIO 2: [MATRIZ], [INSERINDO VALORES],[MAIOR ELEMENTO]
+Encontre e mostre o maior elemento de cada linha e depois encontre e mostre 
+o maior elemento de cada coluna:
+
+EXERCÍCIO 3.1: [MATRIZ], [MAIOR ELEMENTO], [RANDÔMICO]
+Mostrando maiores de cada linha e coluna. (RESULTADO FORMATADO)
+
+EXERCÍCIO 3: [MATRIZ]
+Mostrando maiores de cada linha e coluna.

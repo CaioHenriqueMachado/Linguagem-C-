@@ -1,4 +1,4 @@
-// Parte 6(lista 2):Fazer um programa em C que lê um vetor de 50 
+// EXERCÍCIO 17:Fazer um programa em C que lê um vetor de 50 
 //posições de números inteiros e mostra somente os positivos.
 
 #include<stdio.h>

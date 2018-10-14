@@ -1,4 +1,4 @@
-//Parte 3(lista 2):Fazer um programa em C que lê dois vetores de
+//EXERCÍCIO 14:Fazer um programa em C que lê dois vetores de
 //10 posições e faz a multiplicação dos elementos de mesmo índice, 
 //colocando o resultado em um terceiro vetor. Mostrar o vetor resultante.
 

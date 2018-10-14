@@ -1,4 +1,4 @@
-//PARTE 5:Criar um vetor com 10 posições, pedir para o usuário digitar uma 
+//EXERCÍCIO 5:Criar um vetor com 10 posições, pedir para o usuário digitar uma 
 //lista de números, encerrando ou quando o vetor estiver preenchido ou 
 //quando o usuário digitar zero. Mostrar o vetor e dizer quantos
 //elementos ele possui.

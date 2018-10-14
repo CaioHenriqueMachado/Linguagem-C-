@@ -1,4 +1,4 @@
-//PARTE 2(Entregue):Ler 2 vetores com 5 posicoes cada.
+//EXERCÍCIO 11: Ler 2 vetores com 5 posicoes cada.
 //Criar um terceiro vetor com os maiores valores de cada posicao 
 //Mostrar o vetor criado.
 

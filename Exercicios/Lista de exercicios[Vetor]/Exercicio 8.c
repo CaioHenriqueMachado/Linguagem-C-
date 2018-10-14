@@ -1,4 +1,4 @@
-//PARTE 8:Gerar um vetor randômico de 10 posições, com valores de 0 a 1000.
+//EXERCÍCIO 8:Gerar um vetor randômico de 10 posições, com valores de 0 a 1000.
 //Encontrar o menor elemento e colocar na primeira posição. 
 //Encontrar o maior elemento e colocar na última posição. 
 //Mostrar o vetor antes e depois da troca.

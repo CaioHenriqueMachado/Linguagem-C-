@@ -1,4 +1,4 @@
-//PARTE 1:Gerar um vetor de 10 posicoes com valores aleatórios de 0 50 
+//EXERCÍCIO 10:Gerar um vetor de 10 posicoes com valores aleatórios de 0 50 
 //Onde ele mostra todas as posicoes com valores entre 10 30(C/Extremos).
 
 #include <stdio.h>
@@ -15,7 +15,7 @@ int main(){
 	printf("\nValores gerados:\n");
 	
 	for(i=0;i<T;i++){
-		v[i]=rand()%51;	//atribuindo valores ate 51.
+		v[i]=rand()%50;	//atribuindo valores ate 50.
 		printf("%d ",v[i]);
 	}
 	for(i=0;i<T;i++){

@@ -1,4 +1,4 @@
-// Parte 8(lista 2):Ler um número inteiro positivo e verificar 
+// EXERCÍCIO 19:Ler um número inteiro positivo e verificar 
 //quais são os seus divisores.
 
 #include<stdio.h>

@@ -1,4 +1,4 @@
-//PARTE 2:Preencher um vetor com 10 números quaisquer digitados pelo usuário. 
+//EXERCÍCIO 2: Preencher um vetor com 10 números quaisquer digitados pelo usuário. 
 //Criar um segundo vetor com os elementos que são maiores que 10 do primeiro. 
 //Mostrar os dois vetores.
 

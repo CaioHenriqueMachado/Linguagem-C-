@@ -1,0 +1,114 @@
+LISTA DE EXERCÍCIOS:
+
+VETORES
+
+PALAVRA CHAVE=[]
+
+
+EXERCÍCIO 1:	[VETOR],[PARES E ÍMPARES]
+Criar um vetor para armazenar números pares e outro para armazenar 
+números ímpares. Pedir para o usuário digitar 10 números, armazenando-os 
+nos vetores criados, conforme a sua paridade. Mostrar os vetores obtidos.
+
+EXERCÍCIO 2: [VETOR], [N_MAIORES QUE 10]
+Preencher um vetor com 10 números quaisquer digitados pelo usuário. 
+Criar um segundo vetor com os elementos que são maiores que 10 do 
+primeiro. Mostrar os dois vetores.
+
+EXERCÍCIO 3: [VETOR],[MÚLTIPLOS DE 3]
+Pedir para o usuário preencher um vetor com 10 posições,mostrar os 
+elementos que são múltiplos de 3 e as suas respectivas posições.
+
+EXERCÍCIO 4: [VETOR],[INTERCALANDO VETORES]
+Pedir para o usuário preencher dois vetores com 5 posições cada um. 
+Criar um vetor com 10 posições, intercalando os elementos dos dois 
+vetores anteriores. Mostrar os três vetores.
+
+EXERCÍCIO 5: [VETOR], [PARANDO COM ZERO]
+Criar um vetor com 10 posições, pedir para o usuário digitar uma 
+lista de números, encerrando ou quando o vetor estiver preenchido ou 
+quando o usuário digitar zero. Mostrar o vetor e dizer quantos
+elementos ele possui.
+
+EXERCÍCIO 6: [VETOR], [VALOR RANDÔMICO],[MÉDIA]
+Gerar um vetor randômico de 100 posições, com valores de 0 a 1000. 
+Calcular e mostrar a média dos elementos. Refazer o procedimento para o vetor
+com 1000 posições e 10000 posições. O que se pode dizer sobre as médias
+calculadas.
+
+EXERCÍCIO 7: [VETOR], [CONTANDO PARES]
+Gerar um vetor randômico de 100 posições, com valores de 0 a 1000. 
+Verificar e mostrar quantos são os pares.Calcular e mostrar a soma 
+dos ímpares.
+
+EXERCÍCIO 8: [VETOR], [MAIOR E MENOR VALOR],[TROCA DE POSIÇÃO]
+Gerar um vetor randômico de 10 posições, com valores de 0 a 1000.
+Encontrar o menor elemento e colocar na primeira posição. 
+Encontrar o maior elemento e colocar na última posição. 
+Mostrar o vetor antes e depois da troca.
+
+EXERCÍCIO 9: [VETOR],[CONTANDO O NUM_500]
+Gere um vetor que tenha 100 posiçoes que tenham valores de 0 ate 
+1000, depois  mostre a posicao e quantas vezes aparece o valor 500.
+
+EXERCÍCIO 10: [VETOR], [MOSTRANDO VALORES ENTRE 'X' E 'Y']
+Gerar um vetor de 10 posicoes com valores aleatórios de 0 50 onde ele 
+mostra todas as posições com valores entre 10 30(C/Extremos).
+
+EXERCÍCIO 11: [VETOR], [MAIOR DE CADA VETOR]
+Ler 2 vetores com 5 posicoes cada. Criar um terceiro vetor com os 
+maiores valores de cada posicao. Mostrar o vetor criado.
+
+EXERCÍCIO 12: [VETOR], [BUSCANDO VALOR = A MEDIA]
+Fazer um programa em C que lê um conjunto de 10 valores inteiros 
+e verifica se algum dos valores é igual à média dos mesmos.
+
+EXERCÍCIO 13: [VETOR], [RANDÔMICO],[BUSCANDO VALOR = A MEDIA]
+Fazer um programa em C que vai gerar um conjunto de 10 valores inteiros
+e verifica se algum dos valores é igual à média dos mesmos.
+
+EXERCÍCIO 14: [VETOR], [MULTIPLICAÇÃO DE ÍNDICE]
+Fazer um programa em C que lê dois vetores de 10 posições e faz a 
+multiplicação dos elementos de mesmo índice, colocando o resultado em um 
+terceiro vetor. Mostrar o vetor resultante.
+
+EXERCÍCIO 15: [VETOR], [ORDEM DECRESCENTE]
+Fazer um programa em C que gera um vetor de 100 posições e mostra-o 
+ordenado em ordem decrescente.
+
+EXERCÍCIO 16: [VETOR], [TROCANDO POSIÇÕES]
+Fazer um programa em C que gera e mostra um vetor de 20 posições.
+Em seguida, troca o primeiro elemento com o último, o segundo com o 
+penúltimo, o terceiro com o antepenúltimo, e assim sucessivamente. 
+Mostrar o novo vetor depois das trocas. 
+
+EXERCÍCIO 17: [VETOR], [ MOSTRA POSITIVOS]
+Fazer um programa em C que lê um vetor de 50 posições de números 
+inteiros e mostra somente os positivos.
+
+EXERCÍCIO 18: [VETOR], [ X>MÉDIA= 1 ; X<MÉDIA= 0]
+Gerar e mostrar um vetor de 10 posições com valores	de 0 a 99, 
+calcular a média e depois substituir os elementos abaixo da média 
+por 0 e os acima por 1. Mostrar o novo vetor.
+
+EXERCÍCIO 19: [VETOR], [BUSCANDO DIVISORES]
+Ler um número inteiro positivo e verificar quais são os seus divisores.
+
+EXERCÍCIO 20: [VETOR], [VERIFICANDO SE É NUM_PRIMO]
+Ler um número inteiro positivo e verificar se ele é primo.
+
+EXERCÍCIO 21: [VETOR], [ PREENCHER COM NUM_PRIMO]
+Preencher um vetor de 20 posições com os 20 primeiros números primos.
+
+EXERCÍCIO 22: [VETOR], [MÉDIA NO 3° VETOR]
+Ler dois vetores de 10 posioes cada um, Calcular a média dos elementos de
+mesmo resultado em um terceiro vetor, e mostrar o vetor resultante somente.
+
+EXERCÍCIO 23: [VETOR], 
+Ler 10 numeros inteiros, armazena-los em um vetor com 10 posiçoes. Criar 
+apenas com os numeros impares do primeiro vetor. Imprimir os dois vetores.
+
+EXERCÍCIO 24:
+Gerar um vetor de 20 posiçoes com valores randômicos entre 0 e 199 e exibir o
+vetor  os valores do vetor da seguinte maneira: os pares por 0 e os Ímpares 
+por 1. Mostrar o novo vetor.

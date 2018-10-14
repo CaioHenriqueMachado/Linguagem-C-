@@ -1,4 +1,4 @@
-// Parte 2(lista 2):Fazer um programa em C que vai gerar um conjunto de 10 
+// EXERCÍCIO 13:Fazer um programa em C que vai gerar um conjunto de 10 
 //valores inteiros e verifica se algum dos valores
 //é igual à média dos mesmos.
 

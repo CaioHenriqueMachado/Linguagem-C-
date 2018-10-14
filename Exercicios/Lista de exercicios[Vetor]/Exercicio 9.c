@@ -1,4 +1,4 @@
-//PARTE 9:Gere um vetor que tenha 100 posiçoes que tenham valores 
+//EXERCÍCIO 9:Gere um vetor que tenha 100 posiçoes que tenham valores 
 // de 0 ate 1000, depois  mostre a posicao e quantas vezes 
 // aparece o valor 500.
 

@@ -1,4 +1,4 @@
-//Parte 4(lista 2):Fazer um programa em C que gera um vetor de 
+//EXERCÍCIO 15:Fazer um programa em C que gera um vetor de 
 //100 posições e mostra-o ordenado em ordem decrescente.
 
 #include<stdlib.h>

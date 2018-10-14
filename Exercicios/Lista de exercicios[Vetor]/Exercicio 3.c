@@ -1,4 +1,4 @@
-//PARTE 3:Pedir para o usuário preencher um vetor com 10 posições,
+//EXERCÍCIO 3:Pedir para o usuário preencher um vetor com 10 posições,
 //mostrar os elementos que são múltiplos de 3 e as suas respectivas posições.
 
 #include<stdio.h>

@@ -1,4 +1,4 @@
-//PARTE 4:Pedir para o usuário preencher dois vetores com 5 posições cada um. 
+//EXERCÍCIO 4:Pedir para o usuário preencher dois vetores com 5 posições cada um. 
 //Criar um vetor com 10 posições, intercalando os elementos dos dois vetores
 //anteriores.Mostrar os três vetores.
 

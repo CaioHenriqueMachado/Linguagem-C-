@@ -1,4 +1,4 @@
-//PARTE 1 :Criar um vetor para armazenar números pares e outro para armazenar 
+//EXERCÍCIO 1 :Criar um vetor para armazenar números pares e outro para armazenar 
 //números ímpares.Pedir para o usuário digitar 10 números, armazenando-os nos
 // vetores criados, conforme a sua paridade. Mostrar os vetores obtidos.
 
